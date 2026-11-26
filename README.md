@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./organization-profile/profile/assets/dodam-project-showcase.png" width="100%" alt="도담 서비스 로고와 주요 화면" />
+<img src="https://raw.githubusercontent.com/ieum-connect/.github/main/profile/assets/dodam-project-showcase.png" width="100%" alt="도담 서비스 로고와 주요 화면" />
 
 # 💗 도담 DODAM
 
@@ -59,9 +59,9 @@
 
 <br />
 
-<img src="./organization-profile/profile/assets/dodam-leaflet-cover.png" width="100%" alt="도담 리플렛 표지와 서비스 슬로건" />
+<img src="https://raw.githubusercontent.com/ieum-connect/.github/main/profile/assets/dodam-leaflet-cover.png" width="100%" alt="도담 리플렛 표지와 서비스 슬로건" />
 <br /><br />
-<img src="./organization-profile/profile/assets/dodam-leaflet-guide.png" width="100%" alt="도담이 해결하는 문제와 다섯 단계 사용 흐름" />
+<img src="https://raw.githubusercontent.com/ieum-connect/.github/main/profile/assets/dodam-leaflet-guide.png" width="100%" alt="도담이 해결하는 문제와 다섯 단계 사용 흐름" />
 
 </details>
 
@@ -79,21 +79,21 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/yendlessse">
-        <img src="./organization-profile/profile/assets/team-yuhanse.png" width="160" height="160" alt="유한세 팀 프로필 캐릭터" /><br />
+        <img src="https://raw.githubusercontent.com/ieum-connect/.github/main/profile/assets/team-yuhanse.png" width="160" height="160" alt="유한세 팀 프로필 캐릭터" /><br />
         <b>유한세</b>
       </a><br />
       <sub>@yendlessse</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/MadVedi">
-        <img src="./organization-profile/profile/assets/team-jaeheon.png" width="160" height="160" alt="정재헌 팀 프로필 캐릭터" /><br />
+        <img src="https://raw.githubusercontent.com/ieum-connect/.github/main/profile/assets/team-jaeheon.png" width="160" height="160" alt="정재헌 팀 프로필 캐릭터" /><br />
         <b>정재헌</b>
       </a><br />
       <sub>@MadVedi</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/choihwanwoo">
-        <img src="./organization-profile/profile/assets/team-hwanwoo.png" width="160" height="160" alt="최환우 팀 프로필 캐릭터" /><br />
+        <img src="https://raw.githubusercontent.com/ieum-connect/.github/main/profile/assets/team-hwanwoo.png" width="160" height="160" alt="최환우 팀 프로필 캐릭터" /><br />
         <b>최환우</b>
       </a><br />
       <sub>@choihwanwoo</sub>
