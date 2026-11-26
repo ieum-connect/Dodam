@@ -1,0 +1,24 @@
+[submodule "Dodam_frontend"]
+	path = Dodam_frontend
+	url = https://github.com/ieum-connect/Dodam_frontend.git
+	branch = develop
+
+[submodule "Dodam_backend"]
+	path = Dodam_backend
+	url = https://github.com/ieum-connect/Dodam_backend.git
+	branch = develop
+
+[submodule "Dodam_AI_backend"]
+	path = Dodam_AI_backend
+	url = https://github.com/ieum-connect/Dodam_AI_backend.git
+	branch = develop
+
+[submodule "Dodam_infra"]
+	path = Dodam_infra
+	url = https://github.com/ieum-connect/Dodam_infra.git
+	branch = main
+
+[submodule "organization-profile"]
+	path = organization-profile
+	url = https://github.com/ieum-connect/.github.git
+	branch = main
